@@ -17,7 +17,8 @@ Atliq Grands is facing challenges in maintaining its market share and revenue in
 3. Deliver insights on city-wise and property-wise performance across key metrics.
 4. Identify trends by week, occupancy by day type, and booking percentage by platform.
 
-![Dashboard Screenshot](atliq.jpg)
+
+![Dashboard Screenshot][![atliq-jpg.png](https://i.postimg.cc/Kv23Gqjm/atliq-jpg.png)](https://postimg.cc/Hj6k3tbN)
 
 ## Power BI Dashboard Features
 - **Filters**: Allows filtering data by property, city, status, platform, month, and week.
