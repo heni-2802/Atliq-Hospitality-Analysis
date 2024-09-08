@@ -19,7 +19,8 @@ Atliq Grands is facing challenges in maintaining its market share and revenue in
 
 
 ## Dashboard Screenshot 
-[![atliq-jpg.png](https://i.postimg.cc/Kv23Gqjm/atliq-jpg.png)](https://postimg.cc/Hj6k3tbN)
+
+![atliq jpg](https://github.com/user-attachments/assets/bd430011-09e1-4b08-ba24-df54e721690f)
 
 ## Power BI Dashboard Features
 - **Filters**: Allows filtering data by property, city, status, platform, month, and week.
